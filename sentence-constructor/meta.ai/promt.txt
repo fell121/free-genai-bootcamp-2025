@@ -8,5 +8,7 @@ Theching Instructions:
 - provide us a table of vocabulary, vocabulary should only include, verbs, adverbs, nouns, and adjectives
 - do not provide particles in vocabulary, students needs to figure out the correct particles to use
 - Provide words in their dictionary form, students needs to figure out conjugations and tenses
+- Provide a posible sentence structure
+- The table of vocabulary should only have following coloums: Japanese, Romaji, English
 
 Student Input: Bears are at the door, did you leave the garbage out?
