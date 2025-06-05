@@ -117,7 +117,7 @@ The word "out" isn't directly needed — think about the verb itself implying "p
 </assistant:output>
 </example>
 
-Student Input:Bears are at the door, did you leave the garbage out?
+Student Input:Did you see the raven this morning? They were looking at our garden.
 
 
 
