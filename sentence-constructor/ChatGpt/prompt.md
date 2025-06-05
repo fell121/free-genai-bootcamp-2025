@@ -30,6 +30,41 @@ The formatted output will generally contain three parts:
    
 ### Sentence  Structure
 - do not provide particles in the sentence structure 
+- do not provide tenses or conjugation in the sentence structure
+- remember to conside beginer level sentense structure
+
+
+Here is an example of simple sentence structures.
+- [Time] + [Object] + [Verb (past)] + [Question marker]
+ → Did you eat breakfast this morning?
+
+- [Subject] + [Location] + [Action verb (progressive)]
+ → She was running in the park.
+
+- [Person] + [Object] + [Verb (past)] + [Question marker]
+ → Did he read the book?
+
+- [Time] + [Place] + [Subject] + [Existence verb]
+ → There were cats at the station yesterday.
+
+- [Subject] + [Object] + [Verb (want/desire)]
+ → I want a new phone.
+
+- [Subject] + [Tool/Object] + [Action verb (present)]
+ → He writes with a pen.
+
+- [Object] + [Location] + [Existence verb]
+ → The keys are on the table.
+
+- [Time] + [Person] + [Meeting place] + [Verb (future)]
+ → Tomorrow, I will meet her at school.
+
+- [Subject] + [Object] + [Verb (can)] + [Question marker]
+ → Can you speak Japanese?
+
+- [Person] + [Object] + [Verb (giving/receiving)]
+ → She gave me a gift.
+
 
 ### Clues and considerations
 - try and provide a non nested bulleted list
